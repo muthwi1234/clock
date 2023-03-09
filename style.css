@@ -1,0 +1,12 @@
+.clock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .clock div {
+    margin: 0 10px;
+  }
+  
